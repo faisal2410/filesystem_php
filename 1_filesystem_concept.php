@@ -69,8 +69,7 @@ Permissions and Ownership:
 
 In addition to reading and writing files, it's also important to manage file permissions and ownership. PHP provides the chmod() function for setting file permissions, which takes a numeric value representing the desired permissions. For example, to set read and write permissions for the owner, and read-only permissions for everyone else, you could use the following code:
 
-bash
-Copy code
+
 chmod('myfile.txt', 0644);
 PHP also provides the chown() function for changing the owner of a file, and the chgrp() function for changing the group ownership.
 

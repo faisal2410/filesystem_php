@@ -16,4 +16,6 @@ Saves the user's name, email, and profile picture filename to a CSV file named "
 Starts a new session and sets a cookie with the user's name.
 Create a new HTML page that displays the contents of the "users.csv" file in a table.
 
+
+
 */ 
